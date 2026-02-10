@@ -2,7 +2,7 @@
   // Atualize aqui se quiser trocar cidade/UF e dados do rodapé rapidamente
   const SITE = {
     cityUF: "Goiânia/GO",
-    oab: "OAB/UF nº XXXXX",
+    oab: "OAB/GO nº 35.465",
     email: "contato@seudominio.com.br",
     hours: "Seg–Sex, 08h às 18h"
   };
