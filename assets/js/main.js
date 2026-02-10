@@ -3,7 +3,7 @@
   const SITE = {
     cityUF: "Goiânia/GO",
     oab: "OAB/GO nº 35.465",
-    email: "contato@seudominio.com.br",
+    email: "contato@acostadv.com.br",
     hours: "Seg–Sex, 08h às 18h"
   };
 
